@@ -9,4 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4all3n&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4all3n&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/4all3n/4all3n/output/snake.svg" alt="Snake animation" />
+
 
