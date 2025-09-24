@@ -11,5 +11,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=4all3n&icon=8&color=13)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/4all3n/4all3n/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/4all3n/4all3n/output/github-contribution-grid-snake-dark.svg)
+
 
