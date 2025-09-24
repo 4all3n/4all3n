@@ -1,8 +1,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=4all3n&icon=8&color=13)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-👋 Hi there! I’m a passionate and enthusiastic MCA 1st year student with a deep interest in software development, web technologies. I love building innovative projects that solve real-world problems and contribute to impactful solutions.<br><br>💻 My technical interests and skills include:<br><br>    Web Development: Flask, HTML, CSS, JavaScript, Tailwind, React, next JS<br>    Programming: Python, C<br>    Embedded Systems: ESP32, Arduino, Sensors (RFID, Soil Moisture, Infrared)<br>    Databases: NoSQL, Firebase<br><br>🌱 I’m continuously learning and seeking new opportunities to grow my skill set.<br><br>💼 Feel free to explore my repositories and projects. Let’s connect and collaborate to create something amazing together!
+👋 Hi there! I’m a passionate and enthusiastic BCA 3rd year student with a deep interest in software development, web technologies. I love building innovative projects that solve real-world problems and contribute to impactful solutions.<br><br>💻 My technical interests and skills include:<br><br>    Web Development: Flask, HTML, CSS, JavaScript, Tailwind, React, next JS<br>    Programming: Python, C<br>    Embedded Systems: ESP32, Arduino, Sensors (RFID, Soil Moisture, Infrared)<br>    Databases: NoSQL, Firebase<br><br>🌱 I’m continuously learning and seeking new opportunities to grow my skill set.<br><br>💼 Feel free to explore my repositories and projects. Let’s connect and collaborate to create something amazing together!
 
 
 # 💻 Tech Stack:
@@ -14,3 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=4all3n&icon=8&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
